@@ -1,4 +1,4 @@
-# smartvision
+# Smartvision
 The Smart Vision is a face identification project. It is created using React.js, Node.js and Clarifai API.
 
 # Available Scripts
